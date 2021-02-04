@@ -1,0 +1,16 @@
+11월 9일 미션
+
+1. 학습된 내용
+	maven tool
+	
+	lombok
+	
+	log4j or slf4j
+		- log4j.properties
+		
+2. 미션 문제
+	학습된 내용 review + 팀시나리오 구성
+	메소드가 단 두가지 뿐이어도 되니... review 가능한 예제 구성하기
+	
+3. project명
+	step07_review	 		
